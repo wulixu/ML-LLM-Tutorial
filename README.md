@@ -18,6 +18,7 @@
 6. RAG for internal docs, 
   https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llms-relevant-and-current/
   https://www.promptingguide.ai/research/rag
+7. Anthing LLM, https://github.com/Mintplex-Labs/anything-llm
 
 ### Agents for LLM
 1. Autogen, https://github.com/microsoft/autogen
