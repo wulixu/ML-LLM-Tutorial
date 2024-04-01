@@ -3,10 +3,11 @@
 ## Materials and Resources
 
 ### Machine Learning
-1. Kagger for learning, https://www.kaggle.com/
-2. Sksci learning Sk learning https://scikit-learn.org/
-3. Pytorch learning, https://pytorch.org/
-4. TensorFlow learning, https://www.tensorflow.org/
+1. Numpy, Pandas or fundermentals resources, or 
+2. Kagger for learning, https://www.kaggle.com/
+3. Sksci learning Sk learning https://scikit-learn.org/
+4. Pytorch learning, https://pytorch.org/
+5. TensorFlow learning, https://www.tensorflow.org/
 
 ### Large Language Model
 1. GPT free try, https://build.nvidia.com/explore/discover
